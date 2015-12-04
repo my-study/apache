@@ -8,7 +8,7 @@ import org.apache.curator.framework.CuratorFramework;
 import org.apache.curator.framework.recipes.cache.NodeCache;
 import org.apache.curator.framework.recipes.cache.NodeCacheListener;
 
-import com.hailiang.zookeeper.curator.CuratorClientFactory;
+import com.hailiang.study.apache.zookeeper.curator.CuratorClientFactory;
 
 public class WatcherNodeCache {
 

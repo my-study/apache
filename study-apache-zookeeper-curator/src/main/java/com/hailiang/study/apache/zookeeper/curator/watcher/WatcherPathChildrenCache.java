@@ -11,7 +11,7 @@ import org.apache.curator.framework.recipes.cache.PathChildrenCacheEvent;
 import org.apache.curator.framework.recipes.cache.PathChildrenCacheListener;
 import org.apache.curator.utils.CloseableUtils;
 
-import com.hailiang.zookeeper.curator.CuratorClientFactory;
+import com.hailiang.study.apache.zookeeper.curator.CuratorClientFactory;
 
 /**
  * 请先执行WatcherNodeCache

@@ -10,7 +10,7 @@ import org.apache.curator.framework.recipes.cache.TreeCache;
 import org.apache.curator.framework.recipes.cache.TreeCacheEvent;
 import org.apache.curator.framework.recipes.cache.TreeCacheListener;
 
-import com.hailiang.zookeeper.curator.CuratorClientFactory;
+import com.hailiang.study.apache.zookeeper.curator.CuratorClientFactory;
 
 public class WatcherTreeCache {
 

@@ -10,7 +10,7 @@ import org.apache.curator.framework.api.CuratorEvent;
 import org.apache.curator.framework.api.CuratorListener;
 import org.apache.curator.framework.recipes.barriers.DistributedBarrier;
 
-import com.hailiang.zookeeper.curator.CuratorClientFactory;
+import com.hailiang.study.apache.zookeeper.curator.CuratorClientFactory;
 
 public class DistributedBarrierDemo {
 	private static final int QTY = 5;
